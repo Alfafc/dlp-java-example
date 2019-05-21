@@ -1,2 +1,2 @@
 # dlp-java-example
-Data loss prevention example in Java using a custom regex
+Java Google Data loss prevention API example in using a custom regex
